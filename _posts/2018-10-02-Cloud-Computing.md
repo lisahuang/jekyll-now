@@ -10,10 +10,12 @@ Five Characteristics
 3. Resource Pooling
 4. Rapid elasticity
 5. Measured service
+
 Three Service Models
 1. Software as a Service (Saas)
 2. Platform as a Service (Pass)
 3. Infrastructure as a Service (Iaas)
+
 Four Deployment Models
 1. Private cloud
 2. Community cloud

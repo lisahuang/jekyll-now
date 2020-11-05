@@ -1,3 +1,4 @@
-MIT Algorithm and Data Structure
+MIT Introduction to Algorithm and Data Structure
 
-1. [Thinking, Peak Finding ] (https://www.youtube.com/watch?v=HtSuA80QTyo&list=RDCMUCEBb1b_L6zDS3xTUrIALZOw&start_radio=1&t=5 )
+1. [Administrivia; Introduction; Analysis of Algorithms, Insertion Sort, Mergesort] (https://www.youtube.com/watch?v=JPyuH4qXLZ0 )
+2. [Asymptotic Notation | Recurrences | Substitution, Master Method](https://www.youtube.com/watch?v=whjt_N9uYFI)
